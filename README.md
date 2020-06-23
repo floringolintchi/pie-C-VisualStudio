@@ -1,2 +1,2 @@
 # pie-C-VisualStudio
-joc de cărți
+joc de cărți război între doi jucători
