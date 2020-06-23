@@ -1,0 +1,5 @@
+c:\Users\du.SLC\documents\visual studio 2012\Projects\Server\GeneralLibrary\bin\Debug\GeneralLibrary.dll
+c:\Users\du.SLC\documents\visual studio 2012\Projects\Server\GeneralLibrary\bin\Debug\GeneralLibrary.pdb
+c:\Users\du.SLC\documents\visual studio 2012\Projects\Server\GeneralLibrary\obj\Debug\GeneralLibrary.csprojResolveAssemblyReference.cache
+c:\Users\du.SLC\documents\visual studio 2012\Projects\Server\GeneralLibrary\obj\Debug\GeneralLibrary.dll
+c:\Users\du.SLC\documents\visual studio 2012\Projects\Server\GeneralLibrary\obj\Debug\GeneralLibrary.pdb
